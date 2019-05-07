@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Honeywell.Testing.Package</id>
+    <version>0.1.0-alpha0002</version>
+    <title>Testing APi</title>
+    <authors>E851017</authors>
+    <owners>balamurgan.b@honeywell.com</owners>
+    <licenseUrl>http://honeywell.com</licenseUrl>
+    <projectUrl>http://honeywell.com</projectUrl>
+    <iconUrl>http://honeywell.com</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Testing package, nothing useful in it, dont't use it</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright @ Honeywell 2019</copyright>
+    <tags>Nothing</tags>
+  </metadata>
+</package>

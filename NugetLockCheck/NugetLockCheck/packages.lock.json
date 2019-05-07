@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "dependencies": {
+    ".NETFramework,Version=v4.7.2": {
+      "Honeywell.Testing.Package": {
+        "type": "Direct",
+        "requested": "[0.1.0-*, )",
+        "resolved": "0.1.0-alpha0000",
+        "contentHash": "TbvfovmWmqBXsuYh9Kxw245GojNCzS8wBmo1gQ8VEOQbm7rpIYNK9Ha28JlGnwmjNGLmz8Hqx9tLmRXQzagPGg=="
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {},
+    ".NETFramework,Version=v4.7.2/win-x64": {},
+    ".NETFramework,Version=v4.7.2/win-x86": {}
+  }
+}
