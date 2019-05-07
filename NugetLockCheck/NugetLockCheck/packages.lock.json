@@ -5,8 +5,8 @@
       "Honeywell.Testing.Package": {
         "type": "Direct",
         "requested": "[0.1.0-*, )",
-        "resolved": "0.1.0-alpha0000",
-        "contentHash": "TbvfovmWmqBXsuYh9Kxw245GojNCzS8wBmo1gQ8VEOQbm7rpIYNK9Ha28JlGnwmjNGLmz8Hqx9tLmRXQzagPGg=="
+        "resolved": "0.1.0-alpha0002",
+        "contentHash": "2k2lvNz2uiCQeHOXy2DrrferLB+jt5I2ijdp16DDLu9723SPCVuyrKBzT2LiY5GrxVHP9TCWGZKizgPjVhu4Yg=="
       }
     },
     ".NETFramework,Version=v4.7.2/win": {},
