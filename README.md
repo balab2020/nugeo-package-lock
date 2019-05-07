@@ -1,4 +1,4 @@
-# nugeo-package-lock
+# nugeo-package-lock (created for https://github.com/NuGet/Home/issues/8103)
 This projecct demonstrates the feature packages lock feature of Visual Studio 2017 15.9 & Nuget 5.0
 
 Refer here : https://blog.nuget.org/20181217/Enable-repeatable-package-restores-using-a-lock-file.html
